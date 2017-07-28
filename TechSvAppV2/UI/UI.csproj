@@ -1,0 +1,593 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6C9553C8-7E3F-48C9-9D66-3BC826AF5F28}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UI</RootNamespace>
+    <AssemblyName>UI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.2\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.2\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Interactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Windows.Interactivity.WPF.2.0.20525\lib\net40\Microsoft.Expression.Interactions.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Interactivity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Windows.Interactivity.WPF.2.0.20525\lib\net40\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Common\MailController.cs" />
+    <Compile Include="Model\AppSetting.cs" />
+    <Compile Include="Model\App\FilterType.cs" />
+    <Compile Include="Model\Brand.cs" />
+    <Compile Include="Model\Company.cs" />
+    <Compile Include="Model\Const\DataAccess.cs" />
+    <Compile Include="Model\Const\EventBase.cs" />
+    <Compile Include="Model\Const\Filter.cs" />
+    <Compile Include="Model\Const\Theme.cs" />
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Model\Customer.cs" />
+    <Compile Include="Model\App\ExMessageBoxType.cs" />
+    <Compile Include="Model\FaultSet.cs" />
+    <Compile Include="Model\FeedBack.cs" />
+    <Compile Include="Model\BaseModel.cs" />
+    <Compile Include="Model\MailTemplate.cs" />
+    <Compile Include="Model\Notification.cs" />
+    <Compile Include="Model\ProductType.cs" />
+    <Compile Include="Model\Repository.cs" />
+    <Compile Include="Model\Service.cs" />
+    <Compile Include="Model\ServiceDetail.cs" />
+    <Compile Include="Model\ServiceStatus.cs" />
+    <Compile Include="Model\ToolTip.cs" />
+    <Compile Include="Model\User.cs" />
+    <Compile Include="Resource\Resources.cs" />
+    <Compile Include="SplashScreenWindow.xaml.cs">
+      <DependentUpon>SplashScreenWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModel\Controls\FilterViewModel.cs" />
+    <Compile Include="ViewModel\Controls\MenuViewModel.cs" />
+    <Compile Include="ViewModel\Controls\NotificationViewModel.cs" />
+    <Compile Include="ViewModel\Controls\ToolTipViewModel.cs" />
+    <Compile Include="ViewModel\Pages\BrandViewModel.cs" />
+    <Compile Include="ViewModel\Pages\CompanyViewModel.cs" />
+    <Compile Include="ViewModel\Pages\CustomerViewModel.cs" />
+    <Compile Include="ViewModel\Pages\DashboardSettingViewModel.cs" />
+    <Compile Include="ViewModel\Pages\DashboardViewModel.cs" />
+    <Compile Include="ViewModel\Pages\FeedBackViewModel.cs" />
+    <Compile Include="ViewModel\Pages\LoginViewModel.cs" />
+    <Compile Include="ViewModel\Pages\MailTemplateViewModel.cs" />
+    <Compile Include="ViewModel\Pages\NotificationViewModel.cs" />
+    <Compile Include="ViewModel\Pages\ProductTypeViewModel.cs" />
+    <Compile Include="ViewModel\Pages\RepositoryViewModel.cs" />
+    <Compile Include="ViewModel\Pages\ResultViewModel.cs" />
+    <Compile Include="ViewModel\Pages\SeacrhResultViewModel.cs" />
+    <Compile Include="ViewModel\Pages\ServiceDetailViewModel.cs" />
+    <Compile Include="ViewModel\Pages\ServiceStatusViewModel.cs" />
+    <Compile Include="ViewModel\Pages\ServiceViewModel.cs" />
+    <Compile Include="ViewModel\Pages\UserViewModel.cs" />
+    <Compile Include="View\Controls\BaseUserControl.cs" />
+    <Compile Include="View\Controls\BrandChart.xaml.cs">
+      <DependentUpon>BrandChart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\Filter.xaml.cs">
+      <DependentUpon>Filter.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\InventoryTracking.xaml.cs">
+      <DependentUpon>InventoryTracking.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\Menu.xaml.cs">
+      <DependentUpon>Menu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\Nagivate.xaml.cs">
+      <DependentUpon>Nagivate.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\Notification.xaml.cs">
+      <DependentUpon>Notification.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\PublicAlert.xaml.cs">
+      <DependentUpon>PublicAlert.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModel\Controls\PublicAlertViewModel.cs" />
+    <Compile Include="View\Controls\SearchCustomer.xaml.cs">
+      <DependentUpon>SearchCustomer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\ServiceStatus.xaml.cs">
+      <DependentUpon>ServiceStatus.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\ToolTip.xaml.cs">
+      <DependentUpon>ToolTip.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\UseResource.xaml.cs">
+      <DependentUpon>UseResource.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ExMessageBox.xaml.cs">
+      <DependentUpon>ExMessageBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ExMessageBoxViewModel.cs" />
+    <Compile Include="View\MainView.xaml.cs">
+      <DependentUpon>MainView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\FeedBack.xaml.cs">
+      <DependentUpon>FeedBack.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Brands.xaml.cs">
+      <DependentUpon>Brands.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Company.xaml.cs">
+      <DependentUpon>Company.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\custom.xaml.cs">
+      <DependentUpon>custom.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Customer.xaml.cs">
+      <DependentUpon>Customer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Dashboard.xaml.cs">
+      <DependentUpon>Dashboard.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\DashboardSetting.xaml.cs">
+      <DependentUpon>DashboardSetting.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Error.xaml.cs">
+      <DependentUpon>Error.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Information.xaml.cs">
+      <DependentUpon>Information.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\MailSetting.xaml.cs">
+      <DependentUpon>MailSetting.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\MailTemplate.xaml.cs">
+      <DependentUpon>MailTemplate.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\none.xaml.cs">
+      <DependentUpon>none.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Notification.xaml.cs">
+      <DependentUpon>Notification.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\ProductTypes.xaml.cs">
+      <DependentUpon>ProductTypes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Report.xaml.cs">
+      <DependentUpon>Report.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Repository.xaml.cs">
+      <DependentUpon>Repository.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Result.xaml.cs">
+      <DependentUpon>Result.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\SearchResult.xaml.cs">
+      <DependentUpon>SearchResult.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Service.xaml.cs">
+      <DependentUpon>Service.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\ServiceDetails.xaml.cs">
+      <DependentUpon>ServiceDetails.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\ServiceStatus.xaml.cs">
+      <DependentUpon>ServiceStatus.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Setting.xaml.cs">
+      <DependentUpon>Setting.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\TotalCharge.xaml.cs">
+      <DependentUpon>TotalCharge.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Users.xaml.cs">
+      <DependentUpon>Users.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Resource\ActionStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resource\ColorBrush.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resource\ControlStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resource\TemplateStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SplashScreenWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Controls\BrandChart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Controls\Filter.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Controls\InventoryTracking.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Controls\Menu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Controls\Nagivate.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Controls\Notification.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Controls\PublicAlert.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Controls\SearchCustomer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Controls\ServiceStatus.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Controls\ToolTip.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Controls\UseResource.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\ExMessageBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\MainView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\FeedBack.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\Brands.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\Company.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\custom.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\Customer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\Dashboard.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\DashboardSetting.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\Error.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\Information.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\MailSetting.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\MailTemplate.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\none.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\Notification.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\ProductTypes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\Report.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\Repository.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\Result.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\SearchResult.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\Service.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\ServiceDetails.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\ServiceStatus.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\Setting.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\TotalCharge.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Pages\Users.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\box-128.png" />
+    <Resource Include="Resource\Images\transport-icons-03.png" />
+    <Resource Include="Resource\Images\wrench-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bin\Bin.csproj">
+      <Project>{36a4d135-e161-47f1-b804-d35904ce65e8}</Project>
+      <Name>Bin</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{dec04796-e7d1-4023-b4b3-f98a7de3c3bb}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{23c832de-cb94-45b1-ac6b-7b47c56396f3}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Repository\Repository.csproj">
+      <Project>{1050758B-F04D-430A-9F27-8CF8BA7F9F5A}</Project>
+      <Name>Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UIElements\UIElements.csproj">
+      <Project>{081d186d-d51f-4daf-92bb-86c64330774e}</Project>
+      <Name>UIElements</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\Barcode.png" />
+    <Resource Include="Resource\Images\Brand.png" />
+    <Resource Include="Resource\Images\Calender.png" />
+    <Resource Include="Resource\Images\Completed.png" />
+    <Resource Include="Resource\Images\Customer-White.png" />
+    <Resource Include="Resource\Images\Customer.png" />
+    <Resource Include="Resource\Images\dashboard.png" />
+    <Resource Include="Resource\Images\grid.png" />
+    <Resource Include="Resource\Images\Help.png" />
+    <Resource Include="Resource\Images\Home-White.png" />
+    <Resource Include="Resource\Images\Home.png" />
+    <Resource Include="Resource\Images\Information-2.png" />
+    <Resource Include="Resource\Images\lira.png" />
+    <Resource Include="Resource\Images\lock.png" />
+    <Resource Include="Resource\Images\Mail -3.png" />
+    <Resource Include="Resource\Images\Mail-2.png" />
+    <Resource Include="Resource\Images\Mail.png" />
+    <Resource Include="Resource\Images\next.png" />
+    <Resource Include="Resource\Images\Query-2.png" />
+    <Resource Include="Resource\Images\Query.png" />
+    <Resource Include="Resource\Images\Report-2.png" />
+    <Resource Include="Resource\Images\Report.png" />
+    <Resource Include="Resource\Images\Search-2.png" />
+    <Resource Include="Resource\Images\Search.png" />
+    <Resource Include="Resource\Images\service-White.png" />
+    <Resource Include="Resource\Images\Service.png" />
+    <Resource Include="Resource\Images\settings-3.png" />
+    <Resource Include="Resource\Images\statistics.png" />
+    <Resource Include="Resource\Images\User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\Repository-White-2.png" />
+    <Resource Include="Resource\Images\Repository-White-3.png" />
+    <Resource Include="Resource\Images\Repository-White.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\Mail-White.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\SetFault-White.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\DataBase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\Service-Status-White.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\Brand-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\Update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\Dashboard-White.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\Defualt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\FedBack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\Delete-2.png" />
+    <Resource Include="Resource\Images\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\CustomerUpdate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\Car-White.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\Camera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\FedBack-White.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\notification_done.png" />
+    <Resource Include="Resource\Images\notification_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\help_support_question_mark-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\basic2-088_question-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SplashScreen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="UI.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resource\Images\Car_Maintenance_12-128-white.png" />
+    <Resource Include="Resource\Images\Car_Maintenance_2-128-white.png" />
+    <Resource Include="Resource\Images\SEO_Business-23-128-white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon-2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Yadonel.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

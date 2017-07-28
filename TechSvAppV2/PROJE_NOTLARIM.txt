@@ -1,0 +1,9 @@
+------ Yapacaklarým -------
+
+exline.property.setdata geliþtriilcek ve cache yazma þekli deðiþecek!!!!
+exline.cache.onchange eventi eklencek dbde deðiþiklik olduðunda trigger çalýþýp dinleme portundan onchange yapýlacak (depprop'u yazýldý)
+UIElemenslerde instance birkez oluþturulcak þekilde yapýlacak ve birden fazla ayný property ler collection<type> olucak !!!
+
+image e field eklencek ýdler karýþmasýn diye
+
+resim byte çevrilip veri tabanýna kaydedilcek okunurken byte okunup resme donucek

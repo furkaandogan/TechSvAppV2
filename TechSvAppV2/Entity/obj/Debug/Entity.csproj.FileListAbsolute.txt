@@ -1,0 +1,51 @@
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.dll
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.pdb
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.dll
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Common.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Common.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Entity\bin\Debug\Entity.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Entity\bin\Debug\Entity.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Entity\bin\Debug\Common.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Entity\bin\Debug\Common.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Entity\obj\Debug\Entity.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Entity\obj\Debug\Entity.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.dll.config
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Common.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Common.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.pdb
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.dll.config
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Common.dll
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Common.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.dll.config
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Common.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Common.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.dll.config
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Entity.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Common.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\bin\Debug\Common.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Entity\obj\Debug\Entity.pdb

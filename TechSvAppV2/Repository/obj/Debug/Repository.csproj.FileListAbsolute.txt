@@ -1,0 +1,112 @@
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.dll.config
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Data.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Entity.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Data.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Entity.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.xml
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.dll.config
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.dll
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.pdb
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Data.dll
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Entity.dll
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.dll
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Data.pdb
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Entity.pdb
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.xml
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.dll
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.dll.config
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Data.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Entity.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Common.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Data.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Entity.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Common.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\bin\Debug\Repository.dll.config
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\bin\Debug\Repository.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\bin\Debug\Repository.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\bin\Debug\Data.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\bin\Debug\Entity.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\bin\Debug\Common.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\bin\Debug\Data.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\bin\Debug\Entity.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\bin\Debug\Common.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\obj\Debug\Repository.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\Repository\obj\Debug\Repository.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.dll.config
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Common.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Data.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Entity.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Common.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Data.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Entity.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.xml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.pdb
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Common.dll
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Common.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.dll.config
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Common.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Data.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Entity.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Common.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Data.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Entity.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.xml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.dll.config
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Repository.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Common.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Data.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Entity.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.SqlServer.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Common.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Data.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Data.dll.config
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Entity.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\Entity.dll.config
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.xml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\bin\Debug\EntityFramework.SqlServer.xml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Repository\obj\Debug\Repository.pdb

@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{36A4D135-E161-47F1-B804-D35904CE65E8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bin</RootNamespace>
+    <AssemblyName>Bin</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.2\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.2\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActionEvent\AppConfigActionEvents.cs" />
+    <Compile Include="ActionEvent\AppConfigsActionEvents.cs" />
+    <Compile Include="ActionEvent\BrandActionEvents.cs" />
+    <Compile Include="ActionEvent\ChargeActionEvents.cs" />
+    <Compile Include="ActionEvent\CompanyActionEvents.cs" />
+    <Compile Include="ActionEvent\InformationActionEvents.cs" />
+    <Compile Include="ActionEvent\ProductTypeActionEvents.cs" />
+    <Compile Include="ActionEvent\CustomerActionEvents.cs" />
+    <Compile Include="ActionEvent\DashboardSettingsActionEvents.cs" />
+    <Compile Include="ActionEvent\FaultSetActionEvents.cs" />
+    <Compile Include="ActionEvent\ImageActionEvents.cs" />
+    <Compile Include="ActionEvent\MailAddressActionEvents.cs" />
+    <Compile Include="ActionEvent\MailTaskActionEvents.cs" />
+    <Compile Include="ActionEvent\MailTemplateActionEvents.cs" />
+    <Compile Include="ActionEvent\NotificationsActionEvents.cs" />
+    <Compile Include="ActionEvent\ProductActionEvents.cs" />
+    <Compile Include="ActionEvent\RepositoryActionEvents.cs" />
+    <Compile Include="ActionEvent\ServiceActionEvents.cs" />
+    <Compile Include="ActionEvent\ServiceDetailsActionEvents.cs" />
+    <Compile Include="ActionEvent\ServiceStatusActionEvents.cs" />
+    <Compile Include="ActionEvent\Theme\ThemeBaseActionEvents.cs" />
+    <Compile Include="ActionEvent\UserActionEvents.cs" />
+    <Compile Include="AppSetting.cs" />
+    <Compile Include="BaseActionEvents.cs" />
+    <Compile Include="IGenericActionEvents.cs" />
+    <Compile Include="Model\AppSetting.cs" />
+    <Compile Include="Model\App\GrantiDurumEnum.cs" />
+    <Compile Include="Model\GenerealApp.cs" />
+    <Compile Include="Model\App\Dashboard.cs" />
+    <Compile Include="Model\App\DashboardSetting.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{dec04796-e7d1-4023-b4b3-f98a7de3c3bb}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Data\Data.csproj">
+      <Project>{9033e0eb-6967-47c5-9a9a-1a60f2bcc9e0}</Project>
+      <Name>Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{23c832de-cb94-45b1-ac6b-7b47c56396f3}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Exline.Cache\Exline.Cache.csproj">
+      <Project>{ec41dcf8-809c-4e2d-a2ab-0187686cb453}</Project>
+      <Name>Exline.Cache</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Exline.Property\Exline.Property.csproj">
+      <Project>{cdab51b0-3a62-47bb-9203-ecc453f7aa3b}</Project>
+      <Name>Exline.Property</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Repository\Repository.csproj">
+      <Project>{1050758b-f04d-430a-9f27-8cf8ba7f9f5a}</Project>
+      <Name>Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

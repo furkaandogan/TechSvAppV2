@@ -1,0 +1,49 @@
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Common.dll
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Common.pdb
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.dll
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.pdb
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.xml
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\obj\Debug\Common.dll
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\obj\Debug\Common.pdb
+C:\Users\Doğan™\Documents\Visual Studio 2015\Projects\TechSvApp\TechSvApp.Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Common.dll
+D:\Projects\TechSvApp\TechSvApp.Common\bin\Debug\Common.pdb
+D:\Projects\TechSvApp\TechSvApp.Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Projects\TechSvApp\TechSvApp.Common\obj\Debug\Common.dll
+D:\Projects\TechSvApp\TechSvApp.Common\obj\Debug\Common.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Common\bin\Debug\Common.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Common\bin\Debug\Common.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Common\obj\Debug\Common.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Common\obj\Debug\Common.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Common\bin\Debug\Common.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Common\bin\Debug\Common.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Common\obj\Debug\Common.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Common\obj\Debug\Common.pdb
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Common\obj\Debug\Common.dll
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Common\obj\Debug\Common.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Common\obj\Debug\Common.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Common\obj\Debug\Common.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Common\bin\Debug\Common.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Common\bin\Debug\Common.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Common\bin\Debug\Common.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Common\bin\Debug\Common.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Common\obj\Debug\Common.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Common\obj\Debug\Common.pdb

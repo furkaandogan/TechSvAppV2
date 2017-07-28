@@ -1,0 +1,33 @@
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Exline.Property\bin\Debug\Exline.Property.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Exline.Property\bin\Debug\Exline.Property.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.csprojResolveAssemblyReference.cache
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Exline.Property\bin\Debug\Exline.Property.dll
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Exline.Property\bin\Debug\Exline.Property.pdb
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.dll
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.pdb
+D:\Projelerim\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Exline.Property\bin\Debug\Exline.Property.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Exline.Property\bin\Debug\Exline.Property.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Exline.Property\bin\Debug\Exline.Property.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Exline.Property\bin\Debug\Exline.Property.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Exline.Property\bin\Debug\Exline.Property.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Exline.Property\bin\Debug\Exline.Property.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.csprojResolveAssemblyReference.cache
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Exline.Property\bin\Debug\Exline.Property.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Exline.Property\bin\Debug\Exline.Property.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.csprojResolveAssemblyReference.cache
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.pdb
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\Exline.Property\bin\Debug\Exline.Property.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\Exline.Property\bin\Debug\Exline.Property.pdb
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\Exline.Property\obj\Debug\Exline.Property.pdb

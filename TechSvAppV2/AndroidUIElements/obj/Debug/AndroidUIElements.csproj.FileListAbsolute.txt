@@ -1,0 +1,34 @@
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\AndroidUIElements\bin\Debug\AndroidUIElements.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\AndroidUIElements\bin\Debug\AndroidUIElements.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\AndroidUIElements\bin\Debug\AndroidUIElements.dll.mdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\AndroidUIElements\bin\Debug\AndroidUIElements.AndroidUIElements.apk
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\AndroidUIElements\bin\Debug\AndroidUIElements.AndroidUIElements-Signed.apk
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\AndroidUIElements.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\AndroidUIElements.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\android\bin\AndroidUIElements.AndroidUIElements.apk
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\res\values\strings.xml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\R.cs.flag
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\uploadflags.txt
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\bin\Debug\AndroidUIElements.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\bin\Debug\AndroidUIElements.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\bin\Debug\AndroidUIElements.AndroidUIElements.apk
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\bin\Debug\AndroidUIElements.AndroidUIElements-Signed.apk
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\AndroidUIElements.csprojResolveAssemblyReference.cache
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\AndroidUIElements.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\AndroidUIElements.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\android\bin\AndroidUIElements.AndroidUIElements.apk
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\res\values\strings.xml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\R.cs.flag
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\uploadflags.txt
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\bin\Debug\AndroidUIElements.dll.mdb
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\bin\Debug\AndroidUIElements.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\bin\Debug\AndroidUIElements.pdb
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\bin\Debug\AndroidUIElements.AndroidUIElements.apk
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\bin\Debug\AndroidUIElements.AndroidUIElements-Signed.apk
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\AndroidUIElements.csprojResolveAssemblyReference.cache
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\AndroidUIElements.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\AndroidUIElements.pdb
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\android\bin\AndroidUIElements.AndroidUIElements.apk
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\res\values\strings.xml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\R.cs.flag
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\AndroidUIElements\obj\Debug\uploadflags.txt

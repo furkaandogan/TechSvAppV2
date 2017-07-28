@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Data" GeneratedClassName="AppSetting">
+  <Profiles />
+  <Settings>
+    <Setting Name="ExFrame_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BrandChart</Value>
+    </Setting>
+    <Setting Name="ExFrame_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ServiceStatus</Value>
+    </Setting>
+    <Setting Name="ExFrame_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Notification</Value>
+    </Setting>
+    <Setting Name="ExFrame_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UseResource</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

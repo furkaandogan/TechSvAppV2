@@ -1,0 +1,838 @@
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Brand.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\BrandChart.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Menu.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Nagivate.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ServiceStatus.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ToolTip.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\UseResource.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\MainView.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Customer.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Dashboard.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\DashboardSetting.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Service.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Setting.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\App.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.cache
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.lref
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.exe.config
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.exe
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Bin.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Common.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Entity.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Repository.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UIElements.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Data.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Bin.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Entity.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Repository.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UIElements.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Common.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Data.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\App.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ColorBrush.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ControlStyle.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\TemplateStyle.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Brand.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\BrandChart.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Menu.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Nagivate.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ServiceStatus.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ToolTip.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\UseResource.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\MainView.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Customer.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Dashboard.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\DashboardSetting.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Service.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Setting.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.g.resources
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.exe
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Exline.Cache.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Newtonsoft.Json.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Exline.Cache.pdb
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Newtonsoft.Json.xml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\PublicAlert.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\PublicAlert.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\none.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\none.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\ExMessageBox.g.cs
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\ExMessageBox.baml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\System.Windows.Interactivity.dll
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\System.Windows.Interactivity.xml
+D:\Furkan\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.xml
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Brand.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\BrandChart.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Menu.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Nagivate.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\PublicAlert.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ServiceStatus.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ToolTip.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\UseResource.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\ExMessageBox.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\MainView.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Customer.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Dashboard.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\DashboardSetting.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\none.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Service.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Setting.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\App.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.cache
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.lref
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.exe.config
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.exe.config
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.exe
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Bin.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Common.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Entity.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Repository.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UIElements.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Data.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Exline.Cache.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Bin.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Common.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Entity.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Repository.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UIElements.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.xml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Data.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Exline.Cache.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\BrandChart.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Filter.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Menu.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Nagivate.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Notification.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\PublicAlert.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ServiceStatus.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ToolTip.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\UseResource.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\ExMessageBox.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\MainView.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Brands.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\custom.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Customer.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Dashboard.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\DashboardSetting.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Login.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailSetting.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailTemplate.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\none.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Notification.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ProductTypes.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Repository.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Result.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\SearchResult.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Service.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceDetails.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceStatus.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Setting.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\TotalCharge.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Users.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\App.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\App.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ActionStyle.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ColorBrush.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ControlStyle.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\TemplateStyle.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\BrandChart.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Filter.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Menu.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Nagivate.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Notification.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\PublicAlert.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ServiceStatus.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ToolTip.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\UseResource.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\ExMessageBox.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\MainView.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Brands.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\custom.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Customer.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Dashboard.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\DashboardSetting.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Login.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailSetting.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailTemplate.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\none.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Notification.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ProductTypes.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Repository.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Result.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\SearchResult.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Service.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceDetails.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceStatus.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Setting.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\TotalCharge.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Users.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.g.resources
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.exe
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Error.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Error.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\SplashScreenWindow.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\SplashScreenWindow.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\UI.exe.config
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\UI.exe
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\UI.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Bin.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Common.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Entity.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\EntityFramework.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Repository.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\UIElements.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Data.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Exline.Cache.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Bin.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Common.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Entity.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Repository.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\UIElements.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\EntityFramework.xml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Data.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Exline.Cache.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\SplashScreenWindow.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\BrandChart.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\Filter.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\Menu.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\Nagivate.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\Notification.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\PublicAlert.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\ServiceStatus.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\ToolTip.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\UseResource.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\ExMessageBox.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\MainView.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Brands.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\custom.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Customer.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Dashboard.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\DashboardSetting.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Error.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Login.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\MailSetting.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\MailTemplate.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\none.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Notification.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\ProductTypes.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Repository.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Result.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\SearchResult.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Service.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceDetails.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceStatus.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Setting.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\TotalCharge.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Users.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\App.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\App.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\Resource\ActionStyle.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\Resource\ColorBrush.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\Resource\ControlStyle.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\Resource\TemplateStyle.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\SplashScreenWindow.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\BrandChart.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\Filter.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\Menu.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\Nagivate.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\Notification.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\PublicAlert.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\ServiceStatus.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\ToolTip.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\UseResource.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\ExMessageBox.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\MainView.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Brands.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\custom.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Customer.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Dashboard.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\DashboardSetting.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Error.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Login.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\MailSetting.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\MailTemplate.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\none.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Notification.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\ProductTypes.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Repository.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Result.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\SearchResult.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Service.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceDetails.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceStatus.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Setting.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\TotalCharge.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Users.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\UI.g.resources
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\UI.exe
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\UI.pdb
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\SearchCustomer.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\SearchCustomer.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Company.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Company.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\InventoryTracking.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Controls\InventoryTracking.baml
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Information.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2 - Kopya\TechSvAppV2\UI\obj\Debug\View\Pages\Information.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\InventoryTracking.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\SearchCustomer.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Company.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Information.g.cs
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\InventoryTracking.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\SearchCustomer.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Company.baml
+C:\Users\Furkan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Information.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\SplashScreenWindow.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\BrandChart.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Filter.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\InventoryTracking.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Menu.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Nagivate.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Notification.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\PublicAlert.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\SearchCustomer.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ServiceStatus.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ToolTip.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\UseResource.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\ExMessageBox.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\MainView.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\FeedBack.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Brands.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Company.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\custom.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Customer.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Dashboard.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\DashboardSetting.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Error.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Information.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Login.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailSetting.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailTemplate.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\none.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Notification.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ProductTypes.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Report.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Repository.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Result.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\SearchResult.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Service.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceDetails.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceStatus.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Setting.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\TotalCharge.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Users.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\App.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.exe.config
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.exe
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Bin.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Common.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Entity.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Repository.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UIElements.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Data.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Exline.Cache.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Bin.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Common.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Entity.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Repository.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UIElements.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.xml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Data.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Exline.Cache.pdb
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\App.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ActionStyle.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ColorBrush.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ControlStyle.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\TemplateStyle.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\SplashScreenWindow.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\BrandChart.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Filter.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\InventoryTracking.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Menu.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Nagivate.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Notification.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\PublicAlert.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\SearchCustomer.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ServiceStatus.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ToolTip.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\UseResource.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\ExMessageBox.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\MainView.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\FeedBack.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Brands.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Company.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\custom.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Customer.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Dashboard.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\DashboardSetting.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Error.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Information.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Login.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailSetting.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailTemplate.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\none.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Notification.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ProductTypes.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Report.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Repository.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Result.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\SearchResult.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Service.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceDetails.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceStatus.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Setting.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\TotalCharge.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Users.baml
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.g.resources
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.exe
+C:\Users\dogan\Desktop\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.pdb
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.exe
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.pdb
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\SplashScreenWindow.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Filter.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\InventoryTracking.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Notification.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\SearchCustomer.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\FeedBack.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Brands.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Company.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\custom.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Error.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Information.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Login.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailSetting.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailTemplate.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Notification.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ProductTypes.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Report.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Repository.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Result.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\SearchResult.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceDetails.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceStatus.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\TotalCharge.g.cs
+D:\Projelerim\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Users.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.exe.config
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.exe
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\SplashScreenWindow.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\BrandChart.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Filter.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\InventoryTracking.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Menu.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Nagivate.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Notification.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\PublicAlert.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\SearchCustomer.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ServiceStatus.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ToolTip.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\UseResource.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\ExMessageBox.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\MainView.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\FeedBack.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Brands.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Company.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\custom.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Customer.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Dashboard.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\DashboardSetting.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Error.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Information.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Login.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailSetting.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailTemplate.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\none.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Notification.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ProductTypes.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Report.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Repository.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Result.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\SearchResult.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Service.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceDetails.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceStatus.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Setting.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\TotalCharge.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Users.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\App.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.cache
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.lref
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.exe
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Bin.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Common.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Entity.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Repository.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\System.Windows.Interactivity.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UIElements.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Data.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Exline.Cache.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Newtonsoft.Json.dll
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Bin.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Common.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Entity.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Repository.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UIElements.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.xml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\System.Windows.Interactivity.xml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Data.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Exline.Cache.pdb
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Newtonsoft.Json.xml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\App.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ActionStyle.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ColorBrush.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ControlStyle.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\TemplateStyle.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\SplashScreenWindow.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\BrandChart.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Filter.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\InventoryTracking.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Menu.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Nagivate.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Notification.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\PublicAlert.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\SearchCustomer.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ServiceStatus.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ToolTip.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\UseResource.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\ExMessageBox.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\MainView.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\FeedBack.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Brands.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Company.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\custom.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Customer.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Dashboard.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\DashboardSetting.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Error.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Information.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Login.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailSetting.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailTemplate.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\none.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Notification.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ProductTypes.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Report.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Repository.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Result.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\SearchResult.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Service.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceDetails.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceStatus.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Setting.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\TotalCharge.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Users.baml
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.g.resources
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.exe.config
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.exe
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Bin.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Common.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Entity.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.SqlServer.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Repository.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\System.Windows.Interactivity.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UIElements.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Data.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Exline.Cache.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Newtonsoft.Json.dll
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Bin.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Bin.dll.config
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Common.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Entity.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Entity.dll.config
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Repository.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Repository.dll.config
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UIElements.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.xml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.SqlServer.xml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Microsoft.Expression.Interactions.xml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\System.Windows.Interactivity.xml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Data.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Data.dll.config
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Exline.Cache.pdb
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Exline.Cache.dll.config
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Newtonsoft.Json.xml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\SplashScreenWindow.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\BrandChart.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Filter.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\InventoryTracking.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Menu.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Nagivate.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Notification.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\PublicAlert.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\SearchCustomer.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ServiceStatus.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ToolTip.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\UseResource.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\ExMessageBox.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\MainView.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\FeedBack.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Brands.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Company.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\custom.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Customer.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Dashboard.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\DashboardSetting.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Error.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Information.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Login.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailSetting.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailTemplate.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\none.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Notification.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ProductTypes.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Report.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Repository.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Result.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\SearchResult.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Service.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceDetails.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceStatus.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Setting.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\TotalCharge.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Users.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\App.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.cache
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.lref
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\App.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ActionStyle.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ColorBrush.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ControlStyle.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\TemplateStyle.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\SplashScreenWindow.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\BrandChart.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Filter.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\InventoryTracking.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Menu.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Nagivate.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Notification.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\PublicAlert.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\SearchCustomer.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ServiceStatus.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ToolTip.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\UseResource.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\ExMessageBox.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\MainView.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\FeedBack.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Brands.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Company.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\custom.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Customer.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Dashboard.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\DashboardSetting.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Error.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Information.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Login.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailSetting.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailTemplate.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\none.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Notification.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ProductTypes.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Report.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Repository.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Result.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\SearchResult.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Service.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceDetails.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceStatus.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Setting.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\TotalCharge.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Users.baml
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.g.resources
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.Properties.Resources.resources
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.exe
+G:\Projelerim\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.pdb
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.exe.config
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.exe
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UI.pdb
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Bin.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Common.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Entity.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Repository.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UIElements.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Data.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Exline.Cache.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Bin.pdb
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Common.pdb
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Entity.pdb
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Repository.pdb
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\UIElements.pdb
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.xml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Data.pdb
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Exline.Cache.pdb
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\SplashScreenWindow.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\BrandChart.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Filter.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\InventoryTracking.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Menu.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Nagivate.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Notification.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\PublicAlert.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\SearchCustomer.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ServiceStatus.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ToolTip.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\UseResource.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\ExMessageBox.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\MainView.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\FeedBack.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Brands.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Company.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\custom.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Customer.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Dashboard.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\DashboardSetting.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Error.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Information.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Login.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailSetting.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailTemplate.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\none.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Notification.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ProductTypes.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Report.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Repository.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Result.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\SearchResult.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Service.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceDetails.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceStatus.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Setting.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\TotalCharge.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Users.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\App.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\App.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ActionStyle.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ColorBrush.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\ControlStyle.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\Resource\TemplateStyle.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\SplashScreenWindow.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\BrandChart.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Filter.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\InventoryTracking.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Menu.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Nagivate.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\Notification.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\PublicAlert.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\SearchCustomer.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ServiceStatus.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\ToolTip.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Controls\UseResource.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\ExMessageBox.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\MainView.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\FeedBack.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Brands.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Company.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\custom.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Customer.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Dashboard.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\DashboardSetting.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Error.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Information.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Login.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailSetting.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\MailTemplate.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\none.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Notification.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ProductTypes.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Report.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Repository.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Result.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\SearchResult.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Service.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceDetails.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\ServiceStatus.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Setting.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\TotalCharge.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\View\Pages\Users.baml
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.g.resources
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.exe
+C:\Users\Donanım Haber\Desktop\Old\TechSvAppV2\TechSvAppV2\UI\obj\Debug\UI.pdb
